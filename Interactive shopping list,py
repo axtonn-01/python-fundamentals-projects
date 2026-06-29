@@ -1,0 +1,14 @@
+shopping_list = []
+print("Welcome to the shopping list!")
+
+while True:
+    item = input("Enter an item to add to the list (or type 'done' to finish): ")
+    if item.lower() == 'done':
+        break
+    shopping_list.append(item)
+    print(f"'{item}' has been added to your shopping list.")
+
+print("\n--- your final shopping list ---")
+
+for product in shopping_list:
+    print(f"- {product}")

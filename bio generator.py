@@ -1,0 +1,6 @@
+Name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+hobby = input("Enter your hobby: ")
+goal = input("Enter your goal: ")
+print(" My name is " + Name +" , I am "+age +" years old, live in " +city+ " , and my goal is to " +goal)
