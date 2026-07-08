@@ -1,0 +1,47 @@
+{
+  "ca0241f2-5": {
+    "name": "jaya devi dumpalwar",
+    "pin": "1200",
+    "balance": 1000.0,
+    "transactions": [
+      {
+        "id": "2036aa39",
+        "type": "DEPOSIT",
+        "amount": 1000.0,
+        "balance_after": 1000.0,
+        "timestamp": "2026-07-02 18:12:18",
+        "note": "Initial deposit"
+      }
+    ]
+  },
+  "e0e0326d-1": {
+    "name": "Jaya Devi Dumpalwar",
+    "pin": "4039",
+    "balance": 80000.0,
+    "transactions": [
+      {
+        "id": "2c59ed28",
+        "type": "DEPOSIT",
+        "amount": 80000.0,
+        "balance_after": 80000.0,
+        "timestamp": "2026-07-02 18:16:35",
+        "note": "Initial deposit"
+      }
+    ]
+  },
+  "1151919c-d": {
+    "name": "senbonzakura kageyoshi",
+    "pin": "2010",
+    "balance": 33000.0,
+    "transactions": [
+      {
+        "id": "4de8e4d7",
+        "type": "DEPOSIT",
+        "amount": 33000.0,
+        "balance_after": 33000.0,
+        "timestamp": "2026-07-02 18:18:41",
+        "note": "Initial deposit"
+      }
+    ]
+  }
+}
